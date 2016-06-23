@@ -22,7 +22,7 @@ export default {
     */
     babel({
       exclude: 'node_modules/**',
-      presets: ['es2015-rollup'],
+      presets: ['es2015-rollup-react-native'],
       babelrc: false
     })
   ]
